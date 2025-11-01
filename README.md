@@ -1,4 +1,5 @@
 # Hi there, I'm [Your Name] 👋
+<!-- TODO: Replace [Your Name] with your actual name -->
 
 ## 🐍 Python Developer
 
@@ -38,6 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer who loves buildi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1gzd&layout=compact)
 
 ## 📫 How to Reach Me
+<!-- TODO: Update with your actual contact information -->
 
 - GitHub: [@n1gzd](https://github.com/n1gzd)
 - Email: [your.email@example.com](mailto:your.email@example.com)
